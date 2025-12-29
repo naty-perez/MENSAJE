@@ -56,7 +56,7 @@ body {
 <body>
 
 <div class="contenedor">
-    <div class="mensaje">💖 Te amo amo mucho 💖</div>
+    <div class="mensaje">💖 Te amo mucho, Gracias por permitirmi estar en tu vida estos 6 años  💖</div>
     <div class="nombre">Para: Juan Carlos de Jesús Fernández</div>
 </div>
 
@@ -88,3 +88,4 @@ link = f"file:///{ruta.replace(os.sep, '/')}"
 
 print("💌 COPIA ESTE LINK Y ÁBRELO EN CUALQUIER NAVEGADOR 💌\n")
 print(link)
+
